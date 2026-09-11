@@ -14,3 +14,6 @@ imc = peso_float / altura_ao_quadrado
 
 # Saída de dados
 print(f"Olá, {nome}! O resultado é {imc:.2f}.")
+
+# Teste de impressão
+print("GIT")
